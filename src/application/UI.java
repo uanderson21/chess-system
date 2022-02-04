@@ -6,7 +6,6 @@ import java.util.Scanner;
 import chess.ChessPiece;
 import chess.ChessPosition;
 import chess.Color;
-import sun.jvm.hotspot.gc.parallel.PSYoungGen;
 
 public class UI {
 	
